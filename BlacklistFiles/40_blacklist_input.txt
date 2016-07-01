@@ -1,0 +1,6 @@
+name : vg4U ''
+desc : <!--[if gte IE 4]><SCRIPT>alert('XSS');</SCRIPT><![endif]-->
+end : 28.6.2016
+budget : 71,543
+assignto[] : 1
+assignme : 1

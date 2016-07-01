@@ -1,0 +1,6 @@
+name : BQg: DR 
+desc : <body onload=;a1={x:document};;;;;;;;;_=a1.x;_.write(1);;;;
+end : 1.7.2016
+budget : 5,742
+assignto[] : 1
+assignme : 1

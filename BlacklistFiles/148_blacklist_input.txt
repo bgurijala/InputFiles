@@ -1,0 +1,6 @@
+name : 3p.Apg..' 030
+desc : +alert(0)+
+end : 28.6.2016
+budget : 811,645
+assignto[] : 1
+assignme : 1

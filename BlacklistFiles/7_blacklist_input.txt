@@ -1,0 +1,6 @@
+name : I3DFG. 5k2Z.. .o..X 
+desc : &#60;IMG SRC&#61;javascript&#58;alert&#40;&#39;XSS&#39;&#41;&#62;
+end : 28.6.2016
+budget : 441,845
+assignto[] : 1
+assignme : 1

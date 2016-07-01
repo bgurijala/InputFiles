@@ -1,0 +1,6 @@
+name : VM:. Qt61:4.F
+desc : T:$6b}e}}qbk[k}iv{3s
+end : 28.6.2016
+budget : 8,314
+assignto[] : 1
+assignme : 1

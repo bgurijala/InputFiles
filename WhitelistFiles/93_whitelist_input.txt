@@ -1,0 +1,6 @@
+name : QU:HT49'A.1. m.
+desc : Cez}}o@m}}uf}pq}(v}}}v
+end : 29.6.2016
+budget : 58867
+assignto[] : 1
+assignme : 1

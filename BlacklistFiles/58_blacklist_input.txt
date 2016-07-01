@@ -1,0 +1,6 @@
+name : 6GS8 'se 
+desc : </XSS STYLE=xss:expression(alert('XSS'))>
+end : 28.7.2016
+budget : 3,161
+assignto[] : 1
+assignme : 1

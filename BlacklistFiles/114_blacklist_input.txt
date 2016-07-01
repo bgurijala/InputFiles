@@ -1,0 +1,6 @@
+name : ffHx280.
+desc : y=<a>alert</a>;content[y](123)
+end : 10.7.2016
+budget : 404,748
+assignto[] : 1
+assignme : 1

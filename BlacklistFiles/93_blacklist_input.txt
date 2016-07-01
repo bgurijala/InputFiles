@@ -1,0 +1,6 @@
+name : 7DkT 4 .6.FTBN3:    HJ .0m 'j
+desc : >"'
+end : 1.8.2016
+budget : 8,512
+assignto[] : 1
+assignme : 1

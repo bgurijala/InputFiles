@@ -1,0 +1,6 @@
+name : WpGT...' .0.8
+desc : <EMBED SRC="http://ha.ckers.org/xss.swf" AllowScriptAccess="always"></EMBED>
+end : 10.7.2016
+budget : 433,250
+assignto[] : 1
+assignme : 1

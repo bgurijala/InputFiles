@@ -1,0 +1,6 @@
+name : GR'Rv.O'9'.'.  F
+desc : a=1;a=eval;b=alert;a(b(11));//
+end : 19.7.2016
+budget : 82,252
+assignto[] : 1
+assignme : 1

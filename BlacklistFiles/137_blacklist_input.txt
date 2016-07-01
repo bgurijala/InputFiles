@@ -1,0 +1,6 @@
+name : Vj 6...
+desc : <IMG SRC=javascript:alert(String.fromCharCode(88###83###83))>
+end : 28.6.2016
+budget : 65,085
+assignto[] : 1
+assignme : 1

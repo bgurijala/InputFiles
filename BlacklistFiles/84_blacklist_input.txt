@@ -1,0 +1,6 @@
+name : 44.4 4 H'
+desc : &#60;XSS STYLE&#61;&#34;xss&#58;expression&#40;alert&#40;&#39;XSS&#39;&#41;&#41;&#34;&#62;
+end : 28.6.2016
+budget : 90,187
+assignto[] : 1
+assignme : 1

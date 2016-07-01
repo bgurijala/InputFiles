@@ -1,0 +1,6 @@
+name : 77T'd.W
+desc : A=alert;A(1)
+end : 19.7.2016
+budget : 5,375
+assignto[] : 1
+assignme : 1

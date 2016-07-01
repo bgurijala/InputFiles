@@ -1,0 +1,6 @@
+name : 4QKoLI.....'
+desc : <IMG SRC=" &#14;  javascript:alert('XSS');">
+end : 19.7.2016
+budget : 3,504
+assignto[] : 1
+assignme : 1

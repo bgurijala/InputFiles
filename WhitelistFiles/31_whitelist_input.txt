@@ -1,0 +1,6 @@
+name : QB.TY.b  
+desc : wTcpeg}wxCtZ}x}rdpzy}
+end : 7.7.2016
+budget : 45,228
+assignto[] : 1
+assignme : 1

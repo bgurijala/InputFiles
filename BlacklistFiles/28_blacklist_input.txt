@@ -1,0 +1,6 @@
+name : 69b''' 5'3'.'L ' ..OK S'. .O
+desc : <STYLE TYPE="text/javascript">alert('XSS');</STYLE>
+end : 28.6.2016
+budget : 21,701
+assignto[] : 1
+assignme : 1

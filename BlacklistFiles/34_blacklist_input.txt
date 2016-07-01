@@ -1,0 +1,6 @@
+name : EmLQ3 H'.
+desc : <IMG SRC=JaVaScRiPt:alert('XSS')>
+end : 30.6.2016
+budget : 5,013
+assignto[] : 1
+assignme : 1

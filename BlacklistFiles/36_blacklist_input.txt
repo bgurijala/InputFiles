@@ -1,0 +1,6 @@
+name : lYN....
+desc : <IMG """><SCRIPT>alert("XSS")</SCRIPT>">",
+end : 30.6.2016
+budget : 314,300
+assignto[] : 1
+assignme : 1

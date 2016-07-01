@@ -1,0 +1,6 @@
+name : Kr.''se '.7hP5
+desc : <IMG SRC=javascript:alert(&quot;XSS&quot;)>
+end : 19.8.2016
+budget : 3,343
+assignto[] : 1
+assignme : 1

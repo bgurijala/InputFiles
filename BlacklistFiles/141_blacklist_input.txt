@@ -1,0 +1,6 @@
+name : 9h9X:V7 .'.G
+desc : <IMG SRC='vbscript:msgbox("XSS")'>
+end : 30.6.2016
+budget : 710,714
+assignto[] : 1
+assignme : 1

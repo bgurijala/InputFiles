@@ -1,0 +1,6 @@
+name : 1v ''eh
+desc : firefoxurl:test|"%20-new-window%20javascript:alert(\'Cross%2520Browser%2520Scripting!\');"
+end : 28.6.2016
+budget : 848,431
+assignto[] : 1
+assignme : 1

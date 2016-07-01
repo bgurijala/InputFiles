@@ -1,0 +1,6 @@
+name : e6 .... ''1
+desc : }}kXxxngskq-;}}}j}Ud}+
+end : 4.7.2016
+budget : 85,359
+assignto[] : 1
+assignme : 1

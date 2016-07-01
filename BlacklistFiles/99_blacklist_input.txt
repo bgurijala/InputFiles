@@ -1,0 +1,6 @@
+name : 9DD Yy'10'5'8HFj 1
+desc : <BODY onload!#$%&()*~+-_.,:;?@[/|\\]^`=alert("XSS")>
+end : 28.7.2016
+budget : 1,774
+assignto[] : 1
+assignme : 1

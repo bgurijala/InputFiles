@@ -1,0 +1,6 @@
+name : w3'''I6 
+desc : <body onload=a1={x:this.parent.document};a1.x.writeln(1);>
+end : 15.7.2016
+budget : 5,377
+assignto[] : 1
+assignme : 1

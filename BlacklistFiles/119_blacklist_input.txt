@@ -1,0 +1,6 @@
+name : 55w'' 'F'v' . 
+desc : ';alert(0)//\';alert(1)//";alert(2)//\";alert(3)//--></SCRIPT>">'><SCRIPT>alert(4)</SCRIPT>=&{}");}alert(6);function xss(){//
+end : 30.6.2016
+budget : 51,775
+assignto[] : 1
+assignme : 1

@@ -1,0 +1,6 @@
+name : MP4. .K
+desc : XSS STYLE=xss:e/**/xpression(alert('XSS'))>
+end : 10.7.2016
+budget : 4,088
+assignto[] : 1
+assignme : 1

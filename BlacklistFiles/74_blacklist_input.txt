@@ -1,0 +1,6 @@
+name : 6U4 '1'
+desc : &#60;INPUT TYPE&#61;&#34;IMAGE&#34; SRC&#61;&#34;javascript&#58;alert&#40;&#39;XSS&#39;&#41;&#59;&#34;&#62;
+end : 28.6.2016
+budget : 21,227
+assignto[] : 1
+assignme : 1

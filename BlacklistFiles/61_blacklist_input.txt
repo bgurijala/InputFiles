@@ -1,0 +1,6 @@
+name : Eb.. .v 
+desc : <body onload=;a2={y:eval};a1={x:a2.y('al'+'ert')};;;;;;;;;_=a1.x;_(1);;;;
+end : 19.7.2016
+budget : 492,495
+assignto[] : 1
+assignme : 1

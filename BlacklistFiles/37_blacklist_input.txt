@@ -1,0 +1,6 @@
+name : XE5 5Y o.' 6V
+desc : <IMG SRC="jav&#x0D;ascript:alert('XSS');">
+end : 28.7.2016
+budget : 2,436
+assignto[] : 1
+assignme : 1

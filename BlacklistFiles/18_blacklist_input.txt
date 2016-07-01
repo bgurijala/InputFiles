@@ -1,0 +1,6 @@
+name : S6.BAR'K'3'.u': '. 3B'0PK.'
+desc : '> <script>alert(3)</script>
+end : 28.7.2016
+budget : 4,471
+assignto[] : 1
+assignme : 1

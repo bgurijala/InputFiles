@@ -1,0 +1,6 @@
+name : Q1h:.3w28N'.5
+desc : XSS-STYLE=xss:e/**/xpression(alert('XSS'))>
+end : 24.6.2016
+budget : 4,344
+assignto[] : 1
+assignme : 1

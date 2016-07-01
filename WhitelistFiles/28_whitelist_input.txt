@@ -1,0 +1,6 @@
+name : BT S2.8l
+desc : }rHawv}}bZ}(}Zr4}c8c}
+end : 29.6.2016
+budget : 4,290
+assignto[] : 1
+assignme : 1

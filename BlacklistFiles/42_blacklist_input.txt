@@ -1,0 +1,6 @@
+name : RX s4M.
+desc : <IMG SRC=`javascript:alert("RSnake says### 'XSS'")`>
+end : 10.7.2016
+budget : 32,633
+assignto[] : 1
+assignme : 1

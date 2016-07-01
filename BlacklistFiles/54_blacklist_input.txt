@@ -1,0 +1,6 @@
+name : 6SP'SM.'.U' .W6.'.:8.rV. 
+desc : <STYLE>@im\port'\ja\vasc\ript:alert("XSS")';</STYLE>
+end : 19.7.2016
+budget : 1,634
+assignto[] : 1
+assignme : 1

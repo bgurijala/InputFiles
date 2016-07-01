@@ -1,0 +1,6 @@
+name : nv 8''E.
+desc : <IMG SRC=&#x6A&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x70&#x74&#x3A&#x61&#x6C&#x65&#x72&#x74&#x28&#x27&#x58&#x53&#x53&#x27&#x29>
+end : 30.6.2016
+budget : 186,626
+assignto[] : 1
+assignme : 1

@@ -1,0 +1,6 @@
+name : GMm7'84'. 5M 3.'w85.4' .2
+desc : &#60;BASE HREF&#61;&#34;javascript&#58;alert&#40;&#39;XSS&#39;&#41;&#59;&#47;&#47;&#34;&#62;
+end : 30.6.2016
+budget : 482,208
+assignto[] : 1
+assignme : 1

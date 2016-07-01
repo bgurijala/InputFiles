@@ -1,0 +1,6 @@
+name : CF ''E9i y 7. '   E f''97.'
+desc : '';!--"<XSS>=&{()}
+end : 19.7.2016
+budget : 1,806
+assignto[] : 1
+assignme : 1

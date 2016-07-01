@@ -1,0 +1,6 @@
+name : 9L '. u8.i'.89.5.J.Y.
+desc : &#60;IMG SRC&#61;&#34;mocha&#58;&#91;code&#93;&#34;&#62;
+end : 30.6.2016
+budget : 7,628
+assignto[] : 1
+assignme : 1

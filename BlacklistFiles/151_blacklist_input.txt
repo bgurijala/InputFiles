@@ -1,0 +1,6 @@
+name : n7:X''.
+desc : '};a=eval;b=alert;a(b(13));//
+end : 14.7.2016
+budget : 47,974
+assignto[] : 1
+assignme : 1

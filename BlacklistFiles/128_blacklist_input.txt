@@ -1,0 +1,6 @@
+name : CH.9p.3.QP.B2V16 2.' 
+desc : vbscript:Execute(MsgBox(chr(88)&chr(83)&chr(83)))<
+end : 28.6.2016
+budget : 57,249
+assignto[] : 1
+assignme : 1

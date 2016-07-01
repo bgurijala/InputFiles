@@ -1,0 +1,6 @@
+name : QH:xI.SC
+desc : style=color: expression(alert(0));" a="
+end : 19.7.2016
+budget : 12,126
+assignto[] : 1
+assignme : 1

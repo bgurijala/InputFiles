@@ -1,0 +1,6 @@
+name : WP '''i bb 'WoD
+desc : XSS/*-*/STYLE=xss:e/**/xpression(alert('XSS'))>
+end : 10.8.2016
+budget : 7,137
+assignto[] : 1
+assignme : 1

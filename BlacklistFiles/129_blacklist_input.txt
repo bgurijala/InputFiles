@@ -1,0 +1,6 @@
+name : iB. r'''r.61
+desc : width: expression((window.r==document.cookie)?'':alert(r=document.cookie))
+end : 19.7.2016
+budget : 94,587
+assignto[] : 1
+assignme : 1

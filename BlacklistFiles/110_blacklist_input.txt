@@ -1,0 +1,6 @@
+name : W2'8LN1
+desc : <A HREF="http://google:ha.ckers.org">XSS</A>
+end : 30.6.2016
+budget : 622,702
+assignto[] : 1
+assignme : 1

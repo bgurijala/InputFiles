@@ -1,0 +1,6 @@
+name : 3i:.. ' m2Ex  u'.2
+desc : <INPUT TYPE="IMAGE" SRC="javascript:alert('XSS');">
+end : 28.6.2016
+budget : 32,213
+assignto[] : 1
+assignme : 1

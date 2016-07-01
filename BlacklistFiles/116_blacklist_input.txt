@@ -1,0 +1,6 @@
+name : Hx ' j.' 
+desc : with(document.__parent__)alert(1)
+end : 10.7.2016
+budget : 172,294
+assignto[] : 1
+assignme : 1

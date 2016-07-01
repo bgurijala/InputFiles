@@ -1,0 +1,6 @@
+name : 7U''..k
+desc : "><script>alert('XSS')</script>
+end : 25.6.2016
+budget : 538,141
+assignto[] : 1
+assignme : 1

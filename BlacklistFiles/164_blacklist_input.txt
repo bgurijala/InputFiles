@@ -1,0 +1,6 @@
+name : OOV:...' X
+desc : <IMG STYLE="xss:expr/*XSS*/ession(alert('XSS'))">
+end : 30.6.2016
+budget : 7,000
+assignto[] : 1
+assignme : 1

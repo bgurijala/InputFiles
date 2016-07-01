@@ -1,0 +1,6 @@
+name : SD'7' w0'. Q
+desc : <STYLE>li {list-style-image: url("javascript:alert('XSS')");}</STYLE><UL><LI>XSS
+end : 28.7.2016
+budget : 63,285
+assignto[] : 1
+assignme : 1

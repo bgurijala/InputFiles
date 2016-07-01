@@ -1,0 +1,6 @@
+name : U7GyT'.'.  ''
+desc : <img src=`x` onrerror= ` ;; alert(1) ` />
+end : 28.7.2016
+budget : 458,276
+assignto[] : 1
+assignme : 1

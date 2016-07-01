@@ -1,0 +1,6 @@
+name : SD2: ''..'6Il7 ' '  .
+desc : <IFRAME SRC="javascript:alert('XSS');"></IFRAME>
+end : 10.7.2016
+budget : 82526
+assignto[] : 1
+assignme : 1

@@ -1,0 +1,6 @@
+name : 2FJG'26'O.  R 'FZ2..
+desc : exp/*<XSS STYLE='no\xss:noxss("*//*");xss:&#101;x&#x2F;*XSS*//*/*/pression(alert("XSS"))'>
+end : 28.7.2016
+budget : 44845
+assignto[] : 1
+assignme : 1

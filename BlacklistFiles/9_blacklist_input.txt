@@ -1,0 +1,6 @@
+name : MkT...A
+desc : &#60;IMG LOWSRC&#61;&#34;javascript&#58;alert&#40;&#39;XSS&#39;&#41;&#59;&#34;&#62;
+end : 5.7.2016
+budget : 97043
+assignto[] : 1
+assignme : 1

@@ -1,0 +1,6 @@
+name : Jk'D.Vi  
+desc : <IMG SRC=javascript:alert(String.fromCharCode(88,83,83))>
+end : 30.6.2016
+budget : 287,083
+assignto[] : 1
+assignme : 1

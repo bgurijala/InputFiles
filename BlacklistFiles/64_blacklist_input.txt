@@ -1,0 +1,6 @@
+name : Wp:P...'5
+desc : <body/s/onload=x={doc:parent.document};x.doc.writeln(1)
+end : 28.6.2016
+budget : 3,714
+assignto[] : 1
+assignme : 1

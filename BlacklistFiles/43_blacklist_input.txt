@@ -1,0 +1,6 @@
+name : 6x:'.4' ''c
+desc : <IMG SRC=javascript:alert('XSS')>
+end : 28.6.2016
+budget : 9,634
+assignto[] : 1
+assignme : 1

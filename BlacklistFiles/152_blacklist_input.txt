@@ -1,0 +1,6 @@
+name : f85'R .5 T7'd.U88
+desc : 1};a=eval;b=alert;a(b(14));//
+end : 1.9.2016
+budget : 5,273
+assignto[] : 1
+assignme : 1

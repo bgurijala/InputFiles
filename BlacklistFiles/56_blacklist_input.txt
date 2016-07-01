@@ -1,0 +1,6 @@
+name : ZF'.EV'8'
+desc : <html><body><?xml:namespace prefix="t" ns="urn:schemas-microsoft-com:time"><?import namespace="t" implementation="#default#time2"><t:set attributename="innerhtml" to="xss<script defer>alert('xss')</script>"> </body></html>
+end : 10.8.2016
+budget : 74,498
+assignto[] : 1
+assignme : 1

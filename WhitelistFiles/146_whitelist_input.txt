@@ -1,0 +1,6 @@
+name : DF'CdHp..1'.
+desc : [9y}d;tqngsc}eaV}w:du}}g}"
+end : 28.7.2016
+budget : 488,338
+assignto[] : 1
+assignme : 1

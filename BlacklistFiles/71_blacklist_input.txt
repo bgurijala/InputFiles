@@ -1,0 +1,6 @@
+name : 6KTVT.'''    ''6DC. .T.
+desc : &#60;BODY ONLOAD&#61;alert&#40;&#39;XSS&#39;&#41;&#62;
+end : 28.6.2016
+budget : 4,851
+assignto[] : 1
+assignme : 1

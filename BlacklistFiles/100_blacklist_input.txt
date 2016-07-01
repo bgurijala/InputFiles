@@ -1,0 +1,6 @@
+name : 9Y  ..''.'g t .' 6 ' 
+desc : perl -e 'print "<SCR\0IPT>alert("XSS")</SCR\0IPT>";' > out
+end : 1.8.2016
+budget : 2,381
+assignto[] : 1
+assignme : 1

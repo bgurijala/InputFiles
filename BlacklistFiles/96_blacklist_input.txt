@@ -1,0 +1,6 @@
+name : w0V5L'W 
+desc : '%uff1cscript%uff1ealert('XSS')%uff1c/script%uff1e'
+end : 1.7.2016
+budget : 183847
+assignto[] : 1
+assignme : 1

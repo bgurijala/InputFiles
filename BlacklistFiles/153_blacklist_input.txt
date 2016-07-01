@@ -1,0 +1,6 @@
+name : 7h. .07u. 
+desc : '];a=eval;b=alert;a(b(15));//
+end : 28.6.2016
+budget : 779,136
+assignto[] : 1
+assignme : 1

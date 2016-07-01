@@ -1,0 +1,6 @@
+name : hWg4y'QM'.b.i'dMr
+desc : <body/????$/onload=x={doc:parent[document]};x.doc.writeln(1)
+end : 30.6.2016
+budget : 6,950
+assignto[] : 1
+assignme : 1

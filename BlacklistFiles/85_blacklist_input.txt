@@ -1,0 +1,6 @@
+name : 8IE.KSb
+desc : <!--#exec cmd=""/usr/X11R6/bin/xterm ?display 127.0.0.1:0 &""-->
+end : 1.7.2016
+budget : 4,519
+assignto[] : 1
+assignme : 1

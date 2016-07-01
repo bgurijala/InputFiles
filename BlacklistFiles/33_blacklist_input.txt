@@ -1,0 +1,6 @@
+name : 1OK:..8
+desc : <IMG SRC=javascript:alert('XSS')>
+end : 28.6.2016
+budget : 8,815
+assignto[] : 1
+assignme : 1

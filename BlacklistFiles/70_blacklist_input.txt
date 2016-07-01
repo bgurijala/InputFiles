@@ -1,0 +1,6 @@
+name : 5M:X'.z'XK...J 
+desc : &#60;BODY BACKGROUND&#61;&#34;javascript&#58;alert&#40;&#39;XSS&#39;&#41;&#59;&#34;&#62;
+end : 19.7.2016
+budget : 392,704
+assignto[] : 1
+assignme : 1

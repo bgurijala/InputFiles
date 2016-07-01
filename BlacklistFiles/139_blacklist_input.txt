@@ -1,0 +1,6 @@
+name : DNC:..'''' '
+desc : <IMG LOWSRC="javascript:alert('XSS');">
+end : 1.7.2016
+budget : 4,241
+assignto[] : 1
+assignme : 1

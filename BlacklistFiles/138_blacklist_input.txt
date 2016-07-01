@@ -1,0 +1,6 @@
+name : nO13.47Xg2'H98Ss 28.'5''' 2.
+desc : <IMG DYNSRC="javascript:alert('XSS');">
+end : 19.7.2016
+budget : 3,371
+assignto[] : 1
+assignme : 1

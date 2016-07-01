@@ -1,0 +1,6 @@
+name : m14.4'' .'.2
+desc : }be}w}N!X#pgh}DzA}"m.}}/}
+end : 25.6.2016
+budget : 5,776
+assignto[] : 1
+assignme : 1

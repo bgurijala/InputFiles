@@ -1,0 +1,6 @@
+name : 1O17''Z.5.S'GD0 9 'G
+desc : *{gpi}eo.u}clhN}Neeple}Jq}
+end : 7.7.2016
+budget : 62,522
+assignto[] : 1
+assignme : 1

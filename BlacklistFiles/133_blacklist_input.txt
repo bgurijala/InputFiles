@@ -1,0 +1,6 @@
+name : 2zl'  '' 27 2.6.9f.
+desc : <IMG SRC="javascript:alert('XSS')"
+end : 10.7.2016
+budget : 71,063
+assignto[] : 1
+assignme : 1

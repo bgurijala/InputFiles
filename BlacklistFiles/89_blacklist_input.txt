@@ -1,0 +1,6 @@
+name : PnQ C1m'.. '' .7Zu 57M..'. y
+desc : res://c:\\program%20files\\adobe\\acrobat%207.0\\acrobat\\acrobat.dll/#2/#210
+end : 19.7.2016
+budget : 67437
+assignto[] : 1
+assignme : 1

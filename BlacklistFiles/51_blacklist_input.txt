@@ -1,0 +1,6 @@
+name : 3I8:. 6.H
+desc : <FRAMESET><FRAME SRC="javascript:alert('XSS');"></FRAMESET>
+end : 30.6.2016
+budget : 6,842
+assignto[] : 1
+assignme : 1

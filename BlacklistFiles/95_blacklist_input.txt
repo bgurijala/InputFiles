@@ -1,0 +1,6 @@
+name : Bl..3.'.C
+desc : */a=eval;b=alert;a(b(/e/.source));/*
+end : 28.6.2016
+budget : 4,541
+assignto[] : 1
+assignme : 1

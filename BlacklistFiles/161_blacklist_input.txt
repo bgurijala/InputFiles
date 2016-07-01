@@ -1,0 +1,6 @@
+name : F1.. V..CsxD.9. '6'. 8X
+desc : <DIV STYLE="width: expression(alert('XSS'));">
+end : 28.6.2016
+budget : 7,265
+assignto[] : 1
+assignme : 1

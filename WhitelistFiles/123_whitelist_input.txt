@@ -1,0 +1,6 @@
+name : 0D6''Ee....  '
+desc : u}hIkpw3nsdhuEsx}bt}
+end : 19.7.2016
+budget : 3,319
+assignto[] : 1
+assignme : 1

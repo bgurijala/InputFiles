@@ -1,0 +1,6 @@
+name : RA2G. 21  '.
+desc : }x}}0x1}C0[yfh*w}f@}
+end : 28.8.2016
+budget : 6,718
+assignto[] : 1
+assignme : 1

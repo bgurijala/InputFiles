@@ -1,0 +1,6 @@
+name : xE .7.Z.   2 '. .
+desc : <IMG SRC="javascript:alert('XSS');">
+end : 11.12.1019
+budget : 7,378
+assignto[] : 1
+assignme : 1

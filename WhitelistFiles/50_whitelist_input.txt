@@ -1,0 +1,6 @@
+name : KXE.T''
+desc : }Mec}}mszwut&O}}c}ab}k
+end : 27.6.2016
+budget : 12,143
+assignto[] : 1
+assignme : 1

@@ -1,0 +1,6 @@
+name : JRW:Y'''6. 2
+desc : }d}zeqt%}pm}nv}}q}T:z
+end : 7.7.2016
+budget : 42,806
+assignto[] : 1
+assignme : 1
